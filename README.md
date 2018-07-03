@@ -49,9 +49,12 @@
 * 项目监控
 * 性能优化
 * 错误处理
+## 算法
+* [基础算法](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 ## 移动端
 * 小程序
 * 响应式
 ## 其他
 * typeScript
 * PWA
+* 编译原理
